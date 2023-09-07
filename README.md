@@ -1,4 +1,4 @@
-# crockford-base32
+# cbase32
 Small CLI program to encode and decode data, with Crockford-base32.
 Usage of crockford-base32:
   -d    Decode input
